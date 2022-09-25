@@ -1,0 +1,9 @@
+As a kitchen manager, I want to see an inventory of current food items so that I can forecast for future purchases. 
+
+As a kitchen manager, I want to see the cost of each food item so that I can forecast for future purchases.
+
+As a kitchen manager, I want to see the quantity of each food item used in a month so that I can forecast for future purchases.
+
+As a kitchen manager, I want to maintain a list of food item details (brand, size, etc.) so that food purchasing can be delegated to someone else.
+
+As a kitchen manager, I want to maintain a list of vendors so that food purchasing can be delegated to someone else.

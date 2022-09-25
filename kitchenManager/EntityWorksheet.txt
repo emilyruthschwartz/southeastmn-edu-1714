@@ -1,0 +1,14 @@
+Inventory (ID, Date)
+
+Inventory_Item (ID, Inventory_ID, Food_ID, Quantity)
+
+Food (ID, Food_Name, Brand_ID, Vendor_ID, Grams_Per_Unit Cost_Per_Unit)
+
+Brand (ID, Brand_Name)
+
+Vendor (ID, Vendor_Name, Address_ID, Contact_ID)
+
+Address (ID, Street_1, Street_2, City, State, Zip)
+
+Contact (ID, First_Name, Last_Name, Middle_Initial, Phone_Number)
+
