@@ -28,6 +28,48 @@
           <AssociatedConnUserName />
           <FullPath>UserStories.txt</FullPath>
         </FileNode>
+        <FileNode Name="Week 5 Address Table.png">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Week 5 Address Table.png</FullPath>
+        </FileNode>
+        <FileNode Name="Week 5 Brand Table.png">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Week 5 Brand Table.png</FullPath>
+        </FileNode>
+        <FileNode Name="Week 5 Contact Table.png">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Week 5 Contact Table.png</FullPath>
+        </FileNode>
+        <FileNode Name="Week 5 Food Table.png">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Week 5 Food Table.png</FullPath>
+        </FileNode>
+        <FileNode Name="Week 5 Inventory Item Table.png">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Week 5 Inventory Item Table.png</FullPath>
+        </FileNode>
+        <FileNode Name="Week 5 Inventory Table.png">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Week 5 Inventory Table.png</FullPath>
+        </FileNode>
+        <FileNode Name="Week 5 Vendor Table.png">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Week 5 Vendor Table.png</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
   </Items>
